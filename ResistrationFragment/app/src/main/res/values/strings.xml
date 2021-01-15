@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Resistration (Fragment)</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+
+    <string-array name="districts">
+        <item>North Goa</item>
+        <item>South Goa</item>
+    </string-array>
+</resources>

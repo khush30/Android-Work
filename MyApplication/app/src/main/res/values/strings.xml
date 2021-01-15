@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Layouts Demo</string>
+    <string name="details">This app is the first lab assignment. It just demonstrates the following layouts:</string>
+    <string name="constraint">Constraint Layout</string>
+    <string name="constraintInfo">Constraint Layout is a ViewGroup (i.e. a view that holds other views) which allows you to create large and complex layouts with a flat view hierarchy, and also allows you to position and size widgets in a very flexible way.</string>
+    <string name="relative">Relative Layout</string>
+    <string name="relativeInfo">Android RelativeLayout enables you to specify how child views are positioned relative to each other.</string>
+    <string name="linear">Linear Layout</string>
+    <string name="linearInfo">Android LinearLayout is a view group that aligns all children in either vertically or horizontally.</string>
+    <string name="frame">Frame Layout</string>
+    <string name="frameInfo">Frame Layout is designed to block out an area on the screen to display a single item.</string>
+    <string name="table">Table Layout</string>
+    <string name="tableInfo">Android TableLayout going to be arranged groups of views into rows and columns.</string>
+    <string name="next">Go to next page</string>
+    <string name="naam">Enter Name</string>
+    <string name="hello">Hello </string>
+    <string name="phone">Phone no.:</string>
+    <string name="phnDemo">9999999999</string>
+    <string name="email">E-mail id:</string>
+    <string name="emailDemo">abc@xyz.in</string>
+    <string name="dob">Birth date:</string>
+    <string name="dobDemo">dd-mm-yyy</string>
+    <string name="display">Display</string>
+</resources>

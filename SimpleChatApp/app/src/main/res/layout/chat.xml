@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/chat"
+
+    android:layout_margin="2dp"
+    android:orientation="vertical">
+<!--
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/myChat">
+-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/sent"
+            android:layout_marginTop="5dp"
+            android:layout_alignParentEnd="true"
+            android:textColor="@color/textBackground"
+            android:layout_marginLeft="30dp"
+            android:padding="5dp"
+            android:visibility="gone"
+            android:background="@color/chat1color"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/received"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/black"
+            android:padding="5dp"
+            android:visibility="gone"
+            android:layout_alignParentStart="true"
+            android:background="@color/chat2color"/>
+<!--
+    </androidx.cardview.widget.CardView>
+-->
+</RelativeLayout>
