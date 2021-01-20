@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">1851 Android SEA</string>
+
+<string name="title">Covid-19 Statistics</string>
+<string name="rec">Recovery Percentage per State</string>
+<string name="death">Per Capita Death Percentage</string>
+</resources>
